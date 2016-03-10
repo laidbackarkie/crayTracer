@@ -5,6 +5,9 @@
 ##### EXECUTABLE NAME: raytracer
 ##### USAGE: ./raytracer [cameraFile] [materialFile] [model1 ... modeln] [outputFile]
 
+##### NOTE: Camera, Material, and Object files have been provided in the 'inputs' folder
+
+
 STEPS
 
 1. "make clean"
