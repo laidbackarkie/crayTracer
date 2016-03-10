@@ -1,11 +1,9 @@
-# crayTracer
-# Ray Tracer written in C++
-
+# crayTracer :: Ray Tracer written in C++
 
 ### README for crayTracer program by Adrion Q Arkenberg
 
-#### EXECUTABLE NAME: raytracer
-#### USAGE: ./raytracer [cameraFile] [materialFile] [model1 ... modeln] [outputFile]
+##### EXECUTABLE NAME: raytracer
+##### USAGE: ./raytracer [cameraFile] [materialFile] [model1 ... modeln] [outputFile]
 
 STEPS
 
