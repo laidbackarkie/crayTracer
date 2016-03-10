@@ -3,8 +3,8 @@
 ### README for crayTracer program by Adrion Q Arkenberg
 
 ##### EXECUTABLE NAME: raytracer
-##### USAGE: ./raytracer [cameraFile] [materialFile] [model1 ... modeln] [outputFile]
-
+##### USAGE: ./raytracer [cameraFile] [materialFile] [model1 ... modeln] [outputFileName]
+##### OUTPUT FORMAT: [outputFileName].ppm
 ##### NOTE: Camera, Material, and Object files have been provided in the 'inputs' folder
 
 
