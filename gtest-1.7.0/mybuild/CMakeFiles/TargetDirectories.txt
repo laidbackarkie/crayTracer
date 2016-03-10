@@ -1,0 +1,2 @@
+/Users/aqarkenberg/Dropbox/cs410/410pa2/gtest-1.7.0/mybuild/CMakeFiles/gtest.dir
+/Users/aqarkenberg/Dropbox/cs410/410pa2/gtest-1.7.0/mybuild/CMakeFiles/gtest_main.dir
