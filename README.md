@@ -1,38 +1,41 @@
 # crayTracer
-Ray Tracer written in C++
+# Ray Tracer written in C++
 
-## README for crayTracer program by Adrion Q Arkenberg
 
-### EXECUTABLE NAME: raytracer
-### USAGE: ./raytracer [cameraFile] [materialFile] [model1 ... modeln] [outputFile]
+### README for crayTracer program by Adrion Q Arkenberg
+
+#### EXECUTABLE NAME: raytracer
+#### USAGE: ./raytracer [cameraFile] [materialFile] [model1 ... modeln] [outputFile]
 
 STEPS
-"make clean"
-"make"
+
+1. "make clean"
+2. "make"
 
 FILES:
-main.cpp
 
-matrix.{cpp,h}
+* main.cpp
 
-model.{cpp,h}
+* matrix.{cpp,h}
 
-camera.{cpp,h}
+* model.{cpp,h}
 
-image.{cpp,h}
+* camera.{cpp,h}
 
-rgb.{cpp,h}
+* image.{cpp,h}
 
-sphere.{cpp,h}
+* rgb.{cpp,h}
 
-ray.{cpp,h}
+* sphere.{cpp,h}
 
-light.{cpp,h}
+* ray.{cpp,h}
 
-material.{cpp,h}
+* light.{cpp,h}
 
-point.{cpp,h}
+* material.{cpp,h}
 
-polygon.{cpp,h}
+* point.{cpp,h}
 
-world.{cpp,h}
+* polygon.{cpp,h}
+
+* world.{cpp,h}
